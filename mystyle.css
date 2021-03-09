@@ -1,0 +1,69 @@
+.bul {
+padding:20px;
+}.email {
+width:880px;
+height:43px;
+}
+.dat {
+width:435px;
+height:43px;
+}
+.card
+{
+
+background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+background : powderblue;
+}
+
+.pic {
+    background-image: url("back.PNG");
+    font-family: "Roboto";
+    width: 900px;
+    border-style: solid;
+    align: center;
+    border: #FFA500;
+    border-style:solid;
+    position:relative;
+    border-radius:15px 15px 15px 15px;
+    }
+
+.for {
+    background: white;
+    text-align: center;
+    border-radius: 10px 10px 10px 10px;
+}
+.header {
+    color: #FFA500;
+    padding:5px;
+}
+.butt {
+    color: white;
+    font-size:20px;
+    padding:5px;
+    width:200px;
+    background-color: #FFA500;
+    padding:15px;
+    border-radius:10px 10px 10px 10px;
+    width:600px;
+    height:60px;
+    font-weight:bold;
+
+}
+.nam{
+    padding:5px;
+    
+}
+.bod {
+    background-image: url("back.PNG");
+    align-content: center;
+    border-color: #FFA500;
+    padding: 60px;
+    
+}
+.all {
+
+    padding:10px;
+    text-align:left;
+    font-weight:bold;
+    font-size:20px;
+}
